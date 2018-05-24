@@ -1,0 +1,27 @@
+{
+  "name": "kiyomi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangzhuo/kiyomi-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangzhuo/kiyomi-test/issues"
+  },
+  "homepage": "https://github.com/jiangzhuo/kiyomi-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "pomelo-loader-upgrade": "0.0.2",
+    "uuid": "^3.2.1"
+  }
+}
